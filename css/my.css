@@ -1,0 +1,77 @@
+
+#logo-2{
+
+	padding-left: 200px;
+
+}
+#values{
+	border:solid;
+	border:12px;
+	border-color:#222845;
+	text-align: justify;
+	background-color:#f7f7f7;
+	margin:24px;
+	color: 0;
+	font-size: 18px;
+	
+}
+#v1{	
+	text-decoration:underline;
+	font-weight: bolder;
+	color:goldenrod;
+	text-align: center;
+}
+body{
+	background-color:skyblue;
+}
+#skyblue{
+	background-color:#403e46;
+}
+#m1{
+	padding-left:25px;
+}
+footer{
+	background-color:navy;
+}
+#divider{
+	background-color:navy;
+}
+#not{
+	text-align: center;
+	color:navy;
+	font-weight: bolder;
+}
+#copyright{
+	font-weight: bolder;
+	text-align: center;
+	background-color:navy;
+	color:#f7f7f7;
+}
+body{
+	display: justify;
+}
+.position{
+	color:black;
+
+	font-weight: bolder;
+	text-transform: uppercase;
+}
+.position1{
+	font-size: 38px;
+	text-align:center;
+	font-weight: bolder;
+	text-transform: uppercase;
+}
+.menu-ul {
+	display: flex;
+	justify-content: space-evenly;
+	margin: 0 10px;
+	font-family:'Times New Roman', Times, serif;
+}
+#color{
+		color:goldenrod;
+		text-transform: uppercase;
+	}
+body{
+	background-color: skyblue;
+}
